@@ -1,1 +1,5 @@
-pizzapizza100coke200pizza100
+1. Expense_name : pizza , Expense_price: 100 
+2. Expense_name : corn , Expense_price: 20 
+3. Expense_name : pencil , Expense_price: 30 
+1. Expense_name : bread , Expense_price: 100 
+2. Expense_name : rice , Expense_price: 70 
